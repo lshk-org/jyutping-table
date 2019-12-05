@@ -7,9 +7,11 @@
 (https://creativecommons.org/licenses/by/4.0/deed.en) 權限發佈。
 
 ## 鳴謝
-陸勤教授（香港理工大學）
-張群顯博士（香港理工大學，香港理工大學專業進修學院）
-香港語言學學會粵拼小組
+- 陸勤教授（香港理工大學）
+- 張群顯博士（香港理工大學，香港理工大學專業進修學院）
+- 香港語言學學會粵拼小組
+
+***
 
 # Cantonese Pronunciation List of the Characters for Computers
 
@@ -18,6 +20,6 @@ The Cantonese Pronunciation List of the Characters for Computers (hereafter, the
 The List uses [Cantonese Romanization Scheme published by the Linguistic Society of Hong Kong](https://lshk.org/jyutping) for the transcription of Cantonese pronunciation. The List is available on [this website](http://www.iso10646hk.net/jp/document/download.jsp) for public reference. Only PDF was originally provided, which is difficult to use. Jyutping Workgroup of LSHK, after consulting the creators of the list, decided to take up the maintenance of the List, and provide a more machine-friendly format for the public, and release updates on GitHub from time to time.
 
 ## Acknowledgement
-Dr Cheung Kwan Hin (PolyU, SPEED PolyU)
-Prof Lu Qin (PolyU)
-Jyutping Workgroup, LSHK
+- Dr Cheung Kwan Hin (PolyU, SPEED PolyU)
+- Prof Lu Qin (PolyU)
+- Jyutping Workgroup, LSHK
