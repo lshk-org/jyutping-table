@@ -19,6 +19,8 @@ The Cantonese Pronunciation List of the Characters for Computers (hereafter, the
 
 The List uses [Cantonese Romanization Scheme published by the Linguistic Society of Hong Kong](https://lshk.org/jyutping) for the transcription of Cantonese pronunciation. The List is available on [this website](http://www.iso10646hk.net/jp/document/download.jsp) for public reference. Only PDF was originally provided, which is difficult to use. Jyutping Workgroup of LSHK, after consulting the creators of the list, decided to take up the maintenance of the List, and provide a more machine-friendly format for the public, and release updates on GitHub from time to time.
 
+The List is released under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
+
 ## Acknowledgement
 - Dr Cheung Kwan Hin (PolyU, SPEED PolyU)
 - Prof Lu Qin (PolyU)
