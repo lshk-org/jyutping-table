@@ -17,7 +17,7 @@
 
 The Cantonese Pronunciation List of the Characters for Computers (hereafter, the List) contains the Cantonese pronunciation of over 29,000 Chinese characters, including the 27,484 characters of the ISO/IEC 10646-1:2000 and 4,384 characters of the HKSCS-2001. 
 
-The List uses [Cantonese Romanization Scheme published by the Linguistic Society of Hong Kong](https://lshk.org/jyutping) for the transcription of Cantonese pronunciation. The List is available on [this website](http://www.iso10646hk.net/jp/document/download.jsp) for public reference. Only PDF was originally provided, which is difficult to use. Jyutping Workgroup of LSHK, after consulting the creators of the list, decided to take up the maintenance of the List, and provide a more machine-friendly format for the public, and release updates on GitHub from time to time.
+The List uses [Cantonese Romanization Scheme published by the Linguistic Society of Hong Kong (Jyutping)](https://lshk.org/jyutping) for the transcription of Cantonese pronunciation. The List is available on [this website](http://www.iso10646hk.net/jp/document/download.jsp) for public reference. Only PDF was originally provided, which is difficult to use. Jyutping Workgroup of LSHK, after consulting the creators of the list, decided to take up the maintenance of the List, and provide a more machine-friendly format for the public, and release updates on GitHub from time to time.
 
 The List is released under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
 
