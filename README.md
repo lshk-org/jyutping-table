@@ -7,7 +7,7 @@
 
 ## 鳴謝
 - 陸勤教授（香港理工大學）
-- 張群顯博士（香港理工大學，香港理工大學專業進修學院）
+- 張群顯博士（香港理工大學）
 - 香港語言學學會粵拼小組
 
 ***
@@ -21,6 +21,6 @@ The List uses [Cantonese Romanization Scheme published by the Linguistic Society
 The List is released under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 ## Acknowledgement
-- Dr Cheung Kwan Hin (PolyU, SPEED PolyU)
+- Dr Cheung Kwan Hin (PolyU)
 - Prof Lu Qin (PolyU)
 - Jyutping Workgroup, LSHK
