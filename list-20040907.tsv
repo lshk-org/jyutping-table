@@ -13381,7 +13381,7 @@ CH	UCODE	JP	INIT	FINL	TONE
 莅	U+8385	lei6	l	ei	6
 莆	U+8386	pou4	p	ou	4
 莆	U+8386	fu2	f	u	2
-莇	U+8387	zo4	z	o	4
+莇	U+8387	zyu6	z	yu	6
 莈	U+8388	mut6	m	ut	6
 莉	U+8389	lei6	l	ei	6
 莉	U+8389	lei2	l	ei	2
@@ -13480,7 +13480,7 @@ CH	UCODE	JP	INIT	FINL	TONE
 纹	U+7EB9	man6	m	an	6
 纺	U+7EBA	fong2	f	ong	2
 纻	U+7EBB	cyu5	c	yu	5
-纼	U+7EBC	zan5	z	an	5
+纼	U+7EBC	zan6	z	an	6
 纼	U+7EBC	zan3	z	an	3
 纽	U+7EBD	nau2	n	au	2
 纽	U+7EBD	lau2	l	au	2
@@ -14726,7 +14726,7 @@ CH	UCODE	JP	INIT	FINL	TONE
 純	U+7D14	zeon2	z	eon	2
 紕	U+7D15	pei1	p	ei	1
 紕	U+7D15	pei4	p	ei	4
-紖	U+7D16	zan5	z	an	5
+紖	U+7D16	zan6	z	an	6
 紖	U+7D16	zan3	z	an	3
 紗	U+7D17	saa1	s	aa	1
 紘	U+7D18	wang4	w	ang	4
@@ -14736,8 +14736,8 @@ CH	UCODE	JP	INIT	FINL	TONE
 紜	U+7D1C	wan4	w	an	4
 紝	U+7D1D	jam6	j	am	6
 紝	U+7D1D	jam4	j	am	4
-紞	U+7D1E	daam5	d	aam	5
 紞	U+7D1E	daam2	d	aam	2
+紞	U+7D1E	dam2	d	am	2
 紟	U+7D1F	gam1	g	am	1
 紟	U+7D1F	gam3	g	am	3
 素	U+7D20	sou3	s	ou	3
@@ -17608,7 +17608,6 @@ CH	UCODE	JP	INIT	FINL	TONE
 畒	U+7552	mau5	m	au	5
 畓	U+7553	cyun4	c	yun	4
 畔	U+7554	bun6	b	un	6
-畔	U+7554	bun5	b	un	5
 畕	U+7555	goeng1	g	oeng	1
 畖	U+7556	waa1	w	aa	1
 畗	U+7557	daap3	d	aap	3
@@ -23105,7 +23104,7 @@ CH	UCODE	JP	INIT	FINL	TONE
 䊳	U+42B3	mei4	m	ei	4
 䊴	U+42B4	cim3	c	im	3
 䊵	U+42B5	kau4	k	au	4
-䊶	U+42B6	zan5	z	an	5
+䊶	U+42B6	zan6	z	an	6
 䊷	U+42B7	zi1	z	i	1
 䊸	U+42B8	jyu1	j	yu	1
 䊹	U+42B9	cin1	c	in	1
@@ -25792,7 +25791,7 @@ CH	UCODE	JP	INIT	FINL	TONE
 䰾	U+4C3E	bat6	b	at	6
 䰿	U+4C3F	to4	t	o	4
 䱀	U+4C40	joeng1	j	oeng	1
-䱁	U+4C41	giu4	g	iu	4
+䱁	U+4C41	kiu4	k	iu	4
 䱂	U+4C42	jau1	j	au	1
 䱃	U+4C43	zat6	z	at	6
 䱄	U+4C44	gaai3	g	aai	3
@@ -27192,7 +27191,6 @@ CH	UCODE	JP	INIT	FINL	TONE
 傌	U+508C	maa3	m	aa	3
 傍	U+508D	bong6	b	ong	6
 傍	U+508D	pong4	p	ong	4
-傍	U+508D	bong4	b	ong	4
 傎	U+508E	din1	d	in	1
 傏	U+508F	tong4	t	ong	4
 傐	U+5090	hou6	h	ou	6
@@ -30744,7 +30742,6 @@ CH	UCODE	JP	INIT	FINL	TONE
 套	U+5957	tou3	t	ou	3
 套	U+5957	tou2	t	ou	2
 奘	U+5958	zong6	z	ong	6
-奘	U+5958	zong5	z	ong	5
 奘	U+5958	zong1	z	ong	1
 奙	U+5959	bun2	b	un	2
 奚	U+595A	hai4	h	ai	4
@@ -34498,7 +34495,6 @@ CH	UCODE	JP	INIT	FINL	TONE
 掵	U+63B5	ming6	m	ing	6
 掶	U+63B6	zit6	z	it	6
 掷	U+63B7	zaak6	z	aak	6
-掸	U+63B8	daan5	d	aan	5
 掸	U+63B8	daan6	d	aan	6
 掸	U+63B8	sin6	s	in	6
 掹	U+63B9	mang1	m	ang	1
@@ -34879,9 +34875,7 @@ CH	UCODE	JP	INIT	FINL	TONE
 撢	U+64A2	taam2	t	aam	2
 撢	U+64A2	ngam4	ng	am	4
 撢	U+64A2	am4		am	4
-撢	U+64A2	daan5	d	aan	5
 撢	U+64A2	daan6	d	aan	6
-撣	U+64A3	daan5	d	aan	5
 撣	U+64A3	daan6	d	aan	6
 撣	U+64A3	sin6	s	in	6
 撤	U+64A4	cit3	c	it	3
@@ -37439,7 +37433,7 @@ CH	UCODE	JP	INIT	FINL	TONE
 毛	U+6BDB	mou1	m	ou	1
 毜	U+6BDC	hou4	h	ou	4
 毝	U+6BDD	coi2	c	oi	2
-毞	U+6BDE	bei4	b	ei	4
+毞	U+6BDE	pei4	p	ei	4
 毟	U+6BDF	siu2	s	iu	2
 毠	U+6BE0	gaa1	g	aa	1
 毡	U+6BE1	zin1	z	in	1
