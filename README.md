@@ -5,10 +5,16 @@
 
 粵拼表以 [CC BY 4.0 權限](https://creativecommons.org/licenses/by/4.0/deed.en) 發佈。
 
+## 檔案
+
+原檔案 `JPTableFull.pdf` 嘅內容，我哋用咗 [parse-jyutping-table-full](https://github.com/cantonese/parse-jyutping-table-full) 提取並轉換做 `.json` 格式，放喺 `old` 資料夾入面。
+而 `list.tsv` 係經過香港語言學學會粵拼小組編輯嘅最新版本。
 ## 鳴謝
+
 - 陸勤教授（香港理工大學）
 - 張群顯博士（香港理工大學）
 - 香港語言學學會粵拼小組
+
 
 ***
 
@@ -20,7 +26,12 @@ The List uses [Cantonese Romanization Scheme published by the Linguistic Society
 
 The List is released under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
 
+## Files
+
+Content from `JPTableFull.pdf` has been extracted and saved as `.json` under the `old` directory using the [parse-jyutping-table-full](https://github.com/cantonese/parse-jyutping-table-full) tool. `list.tsv` is the latest version edited by Jyutping Work Group, LSHK.
+
 ## Acknowledgement
 - Dr Cheung Kwan Hin (PolyU)
 - Prof Lu Qin (PolyU)
 - Jyutping Workgroup, LSHK
+
