@@ -14,6 +14,7 @@
 - 陸勤教授（香港理工大學）
 - 張群顯博士（香港理工大學）
 - 香港語言學學會粵拼小組
+- Nathan Hammond (@nathanhammond)
 
 ***
 
@@ -32,3 +33,4 @@ Content from `JPTableFull.pdf` has been extracted and saved as `.json` under the
 - Dr Cheung Kwan Hin (PolyU)
 - Prof Lu Qin (PolyU)
 - Jyutping Workgroup, LSHK
+- Nathan Hammond (@nathanhammond)
