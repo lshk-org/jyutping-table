@@ -26201,7 +26201,7 @@ CH	UCODE	JP	INIT	FINL	TONE	DESC	DESC_JP
 䶴	U+4DB4	ceoi1	c	eoi	1		
 䶵	U+4DB5	ci4	c	i	4		
 一	U+4E00	jat1	j	at	1		
-一	U+4E00	waang4	w	aang	4		
+一	U+4E00					橫	waang4
 丁	U+4E01	ding1	d	ing	1		
 丁	U+4E01	zaang1	z	aang	1		
 丁	U+4E01	zang1	z	ang	1		
@@ -26265,7 +26265,7 @@ CH	UCODE	JP	INIT	FINL	TONE	DESC	DESC_JP
 丧	U+4E27	song1	s	ong	1		
 丧	U+4E27	song3	s	ong	3		
 丨	U+4E28	gwan2	gw	an	2		
-丨	U+4E28	syu6	s	yu	6		
+丨	U+4E28					豎	syu6	
 丩	U+4E29	gau2	g	au	2		
 个	U+4E2A	go3	g	o	3		
 个	U+4E2A	go2	g	o	2		
@@ -26289,7 +26289,7 @@ CH	UCODE	JP	INIT	FINL	TONE	DESC	DESC_JP
 临	U+4E34	lam1	l	am	1		
 丵	U+4E35	zok6	z	ok	6		
 丶	U+4E36	zyu2	z	yu	2		
-丶	U+4E36	dim2	d	im	2		
+丶	U+4E36					點	dim2
 丷	U+4E37	baat3	b	aat	3		
 丷	U+4E37					八字頭	baat3 zi6 tau4
 丸	U+4E38	jyun4	j	yun	4		
@@ -26410,7 +26410,7 @@ CH	UCODE	JP	INIT	FINL	TONE	DESC	DESC_JP
 亃	U+4E83	leon5	l	eon	5		
 亄	U+4E84	ji3	j	i	3		
 亅	U+4E85	kyut3	k	yut	3		
-亅	U+4E85	ngau1	ng	au	1		
+亅	U+4E85					鈎	ngau1
 了	U+4E86	liu5	l	iu	5		
 了	U+4E86	liu2	l	iu	2		
 亇	U+4E87	ding1	d	ing	1		

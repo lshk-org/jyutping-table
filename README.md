@@ -7,8 +7,15 @@
 
 ## 檔案
 
-原檔案 `JPTableFull.pdf` 嘅內容，我哋用咗 [parse-jyutping-table-full](https://github.com/cantonese/parse-jyutping-table-full) 提取並轉換做 `.json` 格式，放喺 `old` 資料夾入面。
-而 `list.tsv` 係經過香港語言學學會粵拼小組編輯嘅最新版本。
+### TSV
+`list.tsv` 係經過香港語言學學會粵拼小組編輯嘅最新版本。
+舊版本嘅 TSV 檔案都喺 `versions` 入面。
+
+### JSON
+
+原檔案 `JPTableFull.pdf` 嘅內容，我哋用咗 [parse-jyutping-table-full](https://github.com/cantonese/parse-jyutping-table-full) 提取並轉換做 `.json` 格式，日後我哋會 放喺 `versions` 資料夾入面。
+另外2023年版嘅 `.json` 都可以喺 `versions` 揾到。
+
 
 ## 鳴謝
 - 陸勤教授（香港理工大學）
@@ -28,7 +35,10 @@ The List is released under the [CC BY 4.0 license](https://creativecommons.org/l
 
 ## Files
 
-Content from `JPTableFull.pdf` has been extracted and saved as `.json` under the `old` directory using the [parse-jyutping-table-full](https://github.com/cantonese/parse-jyutping-table-full) tool. `list.tsv` is the latest version edited by Jyutping Work Group, LSHK.
+### TSV
+`list.tsv` is the latest version edited by Jyutping Work Group, LSHK. Older versions of the list can be found in the `versions` directory.
+### JSON
+Content from `JPTableFull.pdf` has been extracted and saved as `.json` under the `versions` directory using the [parse-jyutping-table-full](https://github.com/cantonese/parse-jyutping-table-full) tool. A JSON file based on the 2023 version can also be found in the same directory.
 ## Acknowledgement
 - Dr Cheung Kwan Hin (PolyU)
 - Prof Lu Qin (PolyU)
